@@ -16,7 +16,7 @@ html,body{margin:0;padding:0}
 body{
   font-family: ui-sans-serif,system-ui,Segoe UI,Roboto,Helvetica,Arial,Apple Color Emoji,Segoe UI Emoji;
   color:var(--text);
-  background:linear-gradient(180deg, #efd4a8, #efd4a8 35%, #c8c2a3);
+  background:linear-gradient(180deg, #221f1b, #27231e 35%, #c8c2a3);
   line-height:1.6;
 }
 a{color:inherit;text-decoration:none}
