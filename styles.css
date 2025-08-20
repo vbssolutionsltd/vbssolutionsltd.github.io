@@ -2,7 +2,7 @@
 /* ---------- VBS Solutions • 3D Modeling Portfolio ---------- */
 :root{
   --bg: #efd4a8;
-  --card: #efd4a8;
+  --card: #13161b;
   --text: #e8ecef;
   --muted: #9fb0bb;
   --brand: #0fa5a8; /* teal */
@@ -16,7 +16,7 @@ html,body{margin:0;padding:0}
 body{
   font-family: ui-sans-serif,system-ui,Segoe UI,Roboto,Helvetica,Arial,Apple Color Emoji,Segoe UI Emoji;
   color:var(--text);
-  background:linear-gradient(180deg, #0a0b0c, #0e1013 35%, #0a0c0f);
+  background:linear-gradient(180deg, #efd4a8, #efd4a8 35%, #0a0c0f);
   line-height:1.6;
 }
 a{color:inherit;text-decoration:none}
